@@ -1,0 +1,449 @@
+PROPOSAL
+BNCC Tech Up
+“AI and Data : The Power Behind
+Decision”
+Jumat, 08 Mei 2026
+BINA NUSANTARA COMPUTER CLUB
+Jalan Jalur Sutera Barat Kav.21, Panunggangan, Pinang,
+Panunggangan, Pinang, Kota Tangerang, Banten 15143
+Telp. (021) 29779100
+Website: www.bncc.net
+
+-- 1 of 13 --
+
+BINA NUSANTARA COMPUTER CLUB
+Jalan Jalur Sutera Barat Kav.21, Panunggangan, Pinang
+www.bncc.net | partnership.alsut@bncc.net
+I. PENDAHULUAN
+Perkembangan Artificial Intelligence (AI) dan pemanfaatan data telah
+menjadi fondasi utama dalam transformasi digital di berbagai sektor, mulai
+dari bisnis, pendidikan, hingga industri kreatif. Di era saat ini, data tidak lagi
+sekadar informasi pasif, melainkan aset strategis yang memiliki nilai tinggi
+ketika diolah secara tepat. Dengan dukungan AI, data dapat dianalisis untuk
+menghasilkan insight yang mendalam, membantu proses prediksi,
+optimalisasi strategi, serta pengambilan keputusan yang lebih cepat dan
+akurat.
+Namun, kekuatan AI dan data juga membawa tantangan tersendiri.
+Kualitas data, tata kelola yang baik, keamanan informasi, serta aspek etika
+dalam penggunaan AI menjadi faktor krusial yang menentukan keberhasilan
+implementasinya. Keputusan yang dihasilkan sistem berbasis AI sangat
+bergantung pada integritas dan relevansi data yang digunakan. Oleh karena
+itu, pemahaman mengenai konsep data-driven decision making menjadi
+kompetensi penting yang perlu dimiliki generasi muda di tengah
+perkembangan teknologi yang semakin pesat.
+Melihat dinamika tersebut, penting bagi mahasiswa dan talenta muda
+teknologi untuk tidak hanya menjadi pengguna teknologi, tetapi juga
+memahami bagaimana sistem AI bekerja, bagaimana data dikumpulkan dan
+diproses, serta bagaimana hasil analisis dapat diterjemahkan menjadi
+keputusan yang berdampak nyata. Kemampuan berpikir analitis, kritis, dan
+berbasis data akan menjadi keunggulan kompetitif di masa depan.
+Sebagai komunitas teknologi yang progresif, BNCC menghadirkan
+BNCC Tech Up: “AI and Data: The Power Behind Decision” sebagai platform
+edukasi dan kolaborasi bagi mahasiswa untuk memperdalam pemahaman
+mengenai peran strategis AI dan data dalam proses pengambilan keputusan.
+Melalui sesi inspiratif, diskusi interaktif, dan eksplorasi studi kasus, peserta
+Bina Nusantara Computer Club 	1
+Binus University
+
+-- 2 of 13 --
+
+BINA NUSANTARA COMPUTER CLUB
+Jalan Jalur Sutera Barat Kav.21, Panunggangan, Pinang
+www.bncc.net | partnership.alsut@bncc.net
+akan diajak melihat bagaimana AI dan data menjadi kekuatan utama di balik
+berbagai keputusan inovatif di era modern.
+II. 	KEGIATAN
+Nama 	: Tech Up
+Tema 	: “AI and Data : The Power Behind Decision”
+Deskripsi kegiatan : BNCC Tech Up: “AI and Data : The Power Behind
+Decision” merupakan acara dengan konsep talkshow yang akan
+dilaksanakan secara hybrid, secara offline (di Auditorium B0501 BINUS
+@Alam Sutera) dan online (melalui Zoom Meeting). Berikut merupakan
+outline materi pada acara ini:
+● Talkshow
+Pada rangkaian talkshow BNCC Tech Up: “AI and Data: The Power
+Behind Decision”, pembahasan akan difokuskan pada bagaimana AI dan
+data berperan sebagai fondasi utama dalam proses pengambilan
+keputusan strategis di era digital. Sesi ini akan mengangkat topik mulai
+dari pentingnya kualitas dan integritas data dalam membangun sistem AI
+yang akurat, pemanfaatan AI untuk predictive analytics dan perumusan
+strategi berbasis data, hingga tantangan seperti bias algoritma,
+transparansi model, etika penggunaan AI, serta tata kelola data (data
+governance). Melalui diskusi ini, peserta diajak memahami bagaimana AI
+dan data tidak hanya menjadi alat teknologi, tetapi juga kekuatan utama
+yang membentuk arah kebijakan, inovasi, dan keputusan di berbagai
+sektor.
+● QnA
+Sesi tanya jawab akan memberikan kesempatan bagi peserta onsite
+maupun online untuk berdiskusi langsung dengan narasumber mengenai
+Bina Nusantara Computer Club 	2
+Binus University
+
+-- 3 of 13 --
+
+BINA NUSANTARA COMPUTER CLUB
+Jalan Jalur Sutera Barat Kav.21, Panunggangan, Pinang
+www.bncc.net | partnership.alsut@bncc.net
+peran AI dan data dalam pengambilan keputusan, termasuk tantangan,
+implementasi, dan aspek etisnya di era digital.
+● Sesi Games
+Permainan akan diadakan melalui platform Kahoot agar semua peserta,
+online maupun onsite, dapat berpartisipasi dalam sesi games.
+III. 	MAKSUD DAN TUJUAN
+1. Meningkatkan pemahaman dan minat masyarakat mengenai
+pentingnya peran AI dan data dalam proses pengambilan keputusan di
+berbagai sektor. Acara ini bertujuan untuk mengeksplorasi bagaimana
+data yang berkualitas, analisis berbasis AI, serta tata kelola yang tepat
+dapat menghasilkan keputusan yang lebih akurat dan berdampak.
+Inisiatif ini mendukung SDG 4 (Pendidikan Berkualitas) dengan
+memberikan edukasi mengenai konsep data-driven decision making
+serta pemanfaatan AI secara bertanggung jawab.
+2. Menginspirasi para peserta, khususnya mahasiswa penggiat teknologi,
+untuk mengeksplorasi peluang karir di bidang AI, data science, dan
+business intelligence. Dengan memahami bagaimana AI dan data
+menjadi kekuatan utama di balik keputusan strategis, diharapkan acara
+ini mendorong lahirnya talenta yang kompeten dan adaptif terhadap
+perkembangan industri. Inisiatif ini mendukung SDG 8 (Pekerjaan
+Layak dan Pertumbuhan Ekonomi) melalui pengembangan sumber
+daya manusia di sektor teknologi berbasis AI dan data.
+3. Membantu peserta terhubung dengan praktisi dan ahli di bidang AI dan
+data untuk memperluas wawasan serta memperkuat prospek karir
+mereka. Melalui kolaborasi dan pertukaran insight, peserta dapat
+memahami praktik nyata penerapan AI dalam pengambilan keputusan
+strategis. Inisiatif ini mendukung SDG 17 (Kemitraan untuk Mencapai
+Bina Nusantara Computer Club 	3
+Binus University
+
+-- 4 of 13 --
+
+BINA NUSANTARA COMPUTER CLUB
+Jalan Jalur Sutera Barat Kav.21, Panunggangan, Pinang
+www.bncc.net | partnership.alsut@bncc.net
+Tujuan) dengan memfasilitasi kolaborasi antara mahasiswa, akademisi,
+dan profesional industri.
+4. Mendorong peserta memahami peran AI dan data dalam mendukung
+pembangunan kota dan komunitas yang cerdas serta berkelanjutan.
+Dengan pengambilan keputusan berbasis data yang akurat dan
+transparan, pengembangan infrastruktur digital dapat dirancang lebih
+efektif dan inklusif. Inisiatif ini sejalan dengan SDG 11 (Kota dan
+Komunitas yang Berkelanjutan), dengan menempatkan AI dan data
+sebagai elemen strategis dalam menciptakan ekosistem digital yang
+berkelanjutan.
+IV. 	SASARAN DAN JUMLAH PESERTA
+Sasaran 	Regional
+Jumlah Peserta
+Onsite: 100 peserta
+Online: 200 peserta
+Total: 300 peserta
+V. 	WAKTU DAN TEMPAT PELAKSANAAN
+Hari, Tanggal 	Jumat, 08 Mei 2026
+Tempat Pelaksanaan Auditorium B0501 BINUS @Alam Sutera dan
+Platform Zoom (Hybrid)
+Level Kegiatan 	Regional
+VI. 	PEMBICARA
+Target Pembiara:
+● Doan Lingga
+linkedin.com/in/doanlingga
+○ SVP Data at Traveloka
+Bina Nusantara Computer Club 	4
+Binus University
+
+-- 5 of 13 --
+
+BINA NUSANTARA COMPUTER CLUB
+Jalan Jalur Sutera Barat Kav.21, Panunggangan, Pinang
+www.bncc.net | partnership.alsut@bncc.net
+○ President Director at PT Caturnusa Sejahtera Finance (Traveloka
+Group) (Mei 2022 – September 2024)
+○ CEO of Financial Services at Traveloka (Maret 2022 – April 2024)
+○ CTO, Financial Services at Traveloka (September 2021 –
+Februari 2022)
+○ VP of Data at Traveloka (Mei 2020 – Februari 2022)
+○ Head of Data Analytics at Traveloka – (Januari 2018 – April 2020)
+○ COO & Data Science at OLX Group (Agustus 2016 – Desember
+2017)
+○ Head of BI, Analytics, and CLM at OLX Group (Oktober 2014 –
+Juli 2016)
+○ GM, Customer Lifecycle & Value Management at XL Axiata (Juni
+2013 – September 2014)
+● Ahmad Firdausi
+linkedin.com/in/dausi
+○ Head of IT Big Data and Analytics at Telkomsel
+○ Senior Information Architect at Telkomsel (September 2014 – April
+2017)
+○ Managing Consultant in BAO at IBM Global Business Services
+(Oktober 2009 – September 2014)
+○ BI/DWH Architect at Trendcom International (Mei 2009 –
+September 2009)
+○ Project Lead of DWH/BI System at PT. Mobile-8 Telecom (Juni
+2006 – Mei 2009)
+○ Manager at PT. Mobile-8 Telecom (Juli 2004 – Juni 2006)
+Bina Nusantara Computer Club 	5
+Binus University
+
+-- 6 of 13 --
+
+BINA NUSANTARA COMPUTER CLUB
+Jalan Jalur Sutera Barat Kav.21, Panunggangan, Pinang
+www.bncc.net | partnership.alsut@bncc.net
+● Charlie Tjandra
+linkedin.com/in/charlie-tjandra-66460133
+○ AVP Data Analytics - Business Intelligence Tokopedia
+○ Head of Business Intelligence at Tokopedia (Januari 2020 –
+September 2022)
+○ Business Intelligence Senior Team Lead at Tokopedia (Agustus
+2018 – Januari 2020)
+○ Business Intelligence Manager at OLX Indonesia (Februari 2016 –
+Juli 2018)
+○ Business Intelligence Specialist at Gunung Sewu Kencana
+(September 2008 – Januari 2016)
+○ Business Intelligence Officer at PT Indocement Tunggal Prakarsa
+(September 2001 – September 2008)
+○ Oracle Developer at PT Perkasa Pilar Utama (September 2000 –
+September 2001)
+VII. 	RUNDOWN KEGIATAN
+Hari,tanggal Waktu Durasi Kegiatan 	PIC 	Keterangan
+Jumat, 08
+Mei 2026
+12.30 -
+13.30
+60’ 	Open
+Gate
+● Registrasi
+ulang: PuRe
+memverifikasi
+data peserta
+yang sudah
+mendaftar
+● Pendaftaran di
+tempat: PuRe
+menyediakan
+tempat bagi
+peserta yang
+ingin
+mendaftar
+secara
+langsung
+Bina Nusantara Computer Club 	6
+Binus University
+
+-- 7 of 13 --
+
+BINA NUSANTARA COMPUTER CLUB
+Jalan Jalur Sutera Barat Kav.21, Panunggangan, Pinang
+www.bncc.net | partnership.alsut@bncc.net
+13.30 -
+13.40
+10’ 	Opening
+MC
+Pembukaan
+acara oleh MC
+13.40 -
+13.45
+5’ 	Branding
+Session
+MC
+mempersilahkan
+pihak sponsor
+untuk melakukan
+company branding
+13.45 -
+13.50
+5’ 	Perkenal
+an
+Narasum
+ber
+MC
+mempersilahkan
+narasumber
+untuk naik ke
+panggung serta
+memperkenalkan
+background dari
+narasumber.
+13.50 -
+14.50
+60’ 	Sesi
+Talkshow
+● Pengenalan
+AI dan data
+dalam
+pengambilan
+keputusan di
+era digital
+● Memahami
+bagaimana
+data diolah
+menjadi
+insight melalui
+AI
+● AI dan data:
+alat
+pendukung
+keputusan
+atau
+pengganti
+peran
+manusia?
+● Merancang
+sistem
+pengambilan
+keputusan
+berbasis data
+dan AI
+Bina Nusantara Computer Club 	7
+Binus University
+
+-- 8 of 13 --
+
+BINA NUSANTARA COMPUTER CLUB
+Jalan Jalur Sutera Barat Kav.21, Panunggangan, Pinang
+www.bncc.net | partnership.alsut@bncc.net
+● Pertimbangan
+etis dan bias
+dalam
+penggunaan
+AI dan data
+● Strategi
+memanfaatka
+n AI dan data
+untuk
+pengambilan
+keputusan di
+masa depan
+14.50 -
+15.20
+30’ 	QnA 	Sesi tanya jawab
+dengan peserta
+online dan onsite
+yang akan
+dibawakan
+langsung oleh
+pembicara
+15.20 -
+15.35
+15’ 	Games 	Sesi games
+dibawakan oleh
+MC
+15.35 -
+15.40
+5’ 	Sesi
+Pengumu
+man
+Pemenan
+g Games
+dan QnA
+MC
+mengumumkan
+pemenang
+games dan QnA
+15.40 -
+15.45
+5’ 	Sesi
+penyerah
+an
+sertifikat
+dan
+dokument
+asi
+Ketua pelaksana
+menyerahkan
+sertifikat kepada
+narasumber yang
+akan
+didokumentasika
+n oleh panitia
+15.45 -
+15.50
+5’ 	Sesi foto
+bersama
+Dokumentasi
+bersama peserta
+dan pembicara
+Bina Nusantara Computer Club 	8
+Binus University
+
+-- 9 of 13 --
+
+BINA NUSANTARA COMPUTER CLUB
+Jalan Jalur Sutera Barat Kav.21, Panunggangan, Pinang
+www.bncc.net | partnership.alsut@bncc.net
+yang akan
+diarahkan oleh
+MC
+15.50 -
+15.55
+5’ 	Closing 	Acara akan
+ditutup oleh MC,
+kemudian
+peserta akan
+diberikan link exit
+ticket
+VIII. 	PENYELENGGARA
+Bina Nusantara Computer Club (BNCC)
+BINUS Alam Sutera Main Campus
+Jl. Jalur Sutera Barat Kav. 21,
+Alam Sutera, Tangerang
+081380642521
+IX. 	SUSUNAN PANITIA
+X. 	PENUTUP
+Demikian penjelasan mengenai acara BNCC Tech Up: “AI and Data :
+The Power Behind Decision” yang akan kami adakan, kami harapkan
+acara ini dapat berjalan dengan lancar dan memberikan dampak positif
+bagi setiap pesertanya.
+Jakarta, 28 Februari 2026
+Hormat kami, 	Mengetahui,
+Nurfika Permatasari 	Williard Dextra Halim
+Ketua Panitia Tech Up 	CEO of BNCC
+Bina Nusantara Computer Club 	9
+Binus University
+
+-- 10 of 13 --
+
+BINA NUSANTARA COMPUTER CLUB
+Jalan Jalur Sutera Barat Kav.21, Panunggangan, Pinang
+www.bncc.net | partnership.alsut@bncc.net
+Menyetujui
+Hardi Maringan Adriananda Hutagalung, S.Psi
+Student Support Office Manager BINUS @Campus Alam Sutera
+LAMPIRAN
+I. ANGGARAN
+Budgeting Event Teknologi - "BNCC Tech Up" 2026.xlsx
+II. QUOTATION
+BNCC Tech Up 2026 Quotation
+III. CV PEMBICARA
+1. Doan Lingga
+linkedin.com/in/doanlingga
+2. Ahmad Firdausi
+Bina Nusantara Computer Club 	10
+Binus University
+
+-- 11 of 13 --
+
+BINA NUSANTARA COMPUTER CLUB
+Jalan Jalur Sutera Barat Kav.21, Panunggangan, Pinang
+www.bncc.net | partnership.alsut@bncc.net
+linkedin.com/in/dausi
+3. Charlie Tjandra
+linkedin.com/in/charlie-tjandra-66460133
+IV. TERM OF REFERENCE
+Term of References BNCC Tech Up 2026.docx
+V. DRAFT MOA PEMBICARA
+MOA Pembicara BNCC Tech Up 2026
+Bina Nusantara Computer Club 	11
+Binus University
+
+-- 12 of 13 --
+
+BINA NUSANTARA COMPUTER CLUB
+Jalan Jalur Sutera Barat Kav.21, Panunggangan, Pinang
+www.bncc.net | partnership.alsut@bncc.net
+VI. DRAFT MOA MEDIA PARTNER
+MOA Medpar BNCC Tech Up 2026.docx
+VII. DRAFT MOA SPONSOR
+MOA Sponsor BNCC Tech Up 2026.docx
+Bina Nusantara Computer Club 	12
+Binus University
+
+-- 13 of 13 --
+
