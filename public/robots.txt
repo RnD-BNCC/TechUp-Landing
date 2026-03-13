@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://techup.co.id/sitemap.xml
