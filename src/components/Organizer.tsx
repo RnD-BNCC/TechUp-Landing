@@ -35,7 +35,7 @@ export function Organizer() {
 							</motion.div>
 
 							<motion.img
-								src="https://bncc.net/logo/bncc-white.png"
+								src="/images/bncc-white.png"
 								alt="BNCC - Bina Nusantara Computer Club"
 								className="h-10 w-auto sm:h-12 mb-6"
 								initial={{ opacity: 0 }}

@@ -76,7 +76,7 @@ export function About() {
 							<div className="inline-flex items-center gap-3 border-2 border-border-light bg-bg-surface px-5 py-3 shadow-brutal-sm">
 								<Idea01Icon size={20} className="text-accent-ice" />
 								<span className="text-sm text-text-primary font-bold tracking-wide uppercase">
-									100 ONSITE &times; 200 ONLINE
+									JOIN 300+ ATTENDEES
 								</span>
 							</div>
 						</motion.div>

@@ -1,4 +1,4 @@
-import { MapPinIcon, Call02Icon, GlobalIcon } from "hugeicons-react";
+import { Call02Icon, GlobalIcon } from "hugeicons-react";
 
 export function Footer() {
 	return (
@@ -20,7 +20,7 @@ export function Footer() {
 						<div className="flex flex-col gap-2">
 							<span className="text-xs font-bold text-text-muted uppercase tracking-widest">Organized by</span>
 							<img
-								src="https://bncc.net/logo/bncc-white.png"
+								src="/images/bncc-white.png"
 								alt="BNCC"
 								className="h-8 w-auto object-contain opacity-70"
 							/>
@@ -32,12 +32,6 @@ export function Footer() {
 						<h4 className="text-sm font-bold uppercase tracking-widest text-text-primary mb-2">
 							CONTACT
 						</h4>
-						<div className="flex items-center gap-4 text-base text-text-secondary font-medium">
-							<div className="p-2 border-2 border-border-light bg-bg-surface">
-								<MapPinIcon size={20} className="text-accent-blue" />
-							</div>
-							<span>Jl. Kebon Jeruk Raya No. 50, Jakarta Barat</span>
-						</div>
 						<div className="flex items-center gap-4 text-base text-text-secondary font-medium">
 							<div className="p-2 border-2 border-border-light bg-bg-surface">
 								<Call02Icon size={20} className="text-accent-blue" />
