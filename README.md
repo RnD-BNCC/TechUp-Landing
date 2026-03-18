@@ -8,7 +8,7 @@
 
 Frontend landing page for the BNCC Tech Up 2026 event. Built with React, TypeScript, Tailwind CSS (Neo-Brutalist design), and Framer Motion. Features a fully responsive hybrid talkshow registration interface and dynamic web animations.
 
-**Repository:** https://github.com/RnD-BNCC/TechUp-Landing
+**Repository:** <https://github.com/RnD-BNCC/TechUp-Landing>
 
 ## Features
 
@@ -137,6 +137,7 @@ Follow Semantic Versioning:
 ## Security Features
 
 The Docker/Caddy setup automatically applies strict security headers to achieve an 'A' grade on SecurityHeaders.com:
+
 - `X-Frame-Options: DENY`
 - `X-Content-Type-Options: nosniff`
 - Strict HSTS
@@ -162,3 +163,5 @@ Maintained by RnD BNCC Alam Sutera
 ## Contributors
 
 ![Contributors](https://contrib.rocks/image?repo=RnD-BNCC/TechUp-Landing)
+
+#
