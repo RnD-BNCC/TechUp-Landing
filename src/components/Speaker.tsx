@@ -7,17 +7,17 @@ const speakers = [
         name: "Eggy Tanuwijaya",
         role: "Enterprise Channel Partnership",
         company: "BytePlus",
-        descritpion: "Experienced IT Consultant with a proven track record in the information technology and services industry.",
+        description: "Experienced IT Consultant with a proven track record in the information technology and services industry.",
         linkedin: "https://www.linkedin.com/in/eggy-tanuwijaya-010b50104",
         image: "/images/speakers/eggy_tanuwijaya.jpg"
     },
     {
-        name: "Eggy Tanuwijaya",
-        role: "Enterprise Channel Partnership",
-        company: "BytePlus",
-        descritpion: "Experienced IT Consultant with a proven track record in the information technology and services industry.",
-        linkedin: "https://www.linkedin.com/in/eggy-tanuwijaya-010b50104",
-        image: "/images/speakers/eggy_tanuwijaya.jpg"
+        name: "Risna Hendayana",
+        role: "GM Product Engineering",
+        company: "PT. Tricada Intronik",
+        description: "Experienced IT Professional with a demonstrated history and passion for working in the information technology industry.",
+        linkedin: "https://www.linkedin.com/in/risna-hendayana-43462942",
+        image: "/images/speakers/risna_hendayana.jpg"
     },
 ];
 
@@ -44,7 +44,7 @@ export function Speaker() {
                     </motion.div>
 
                     <motion.h2
-                        className="text-4xl font-bold tracking-tight sm:text-5xl md:text-6xl uppercase"
+                        className="font-heading text-4xl font-bold tracking-tight sm:text-5xl md:text-6xl uppercase"
                         initial={{ opacity: 0, y: 20 }}
                         whileInView={{ opacity: 1, y: 0 }}
                         viewport={{ once: true }}
@@ -117,7 +117,7 @@ export function Speaker() {
                                 <div className="h-0.5 w-16 mx-auto bg-border-light mb-4" />
 
                                 <p className="text-sm text-text-secondary font-medium">
-                                    {speaker.descritpion}
+                                    {speaker.description}
                                 </p>
                             </NeoCard>
                         </motion.div>
