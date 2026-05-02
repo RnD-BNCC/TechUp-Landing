@@ -97,7 +97,7 @@ export function Schedule() {
                         </motion.div>
 
                         <motion.h2
-                            className="font-heading text-4xl font-bold tracking-tight sm:text-5xl md:text-6xl uppercase"
+                            className="text-4xl font-bold tracking-tight sm:text-5xl md:text-6xl uppercase"
                             initial={{ opacity: 0, y: 20 }}
                             whileInView={{ opacity: 1, y: 0 }}
                             viewport={{ once: true }}

@@ -15,7 +15,7 @@ export function GlitchTypography() {
 
   return (
     <div className="w-full h-full flex items-center justify-center p-8 overflow-hidden relative">
-      <div className="relative font-heading text-7xl sm:text-9xl font-black italic tracking-tighter uppercase text-center flex flex-col items-center justify-center space-y-4">
+      <div className="relative text-7xl sm:text-9xl font-black italic tracking-tighter uppercase text-center flex flex-col items-center justify-center space-y-4">
 
         <motion.div
           key={currentWord + "-shadow"}

@@ -13,12 +13,12 @@ export function Hero() {
 
                 <div className="flex-1 w-full flex flex-col justify-center relative z-10">
                     <motion.h1
-                        className="flex flex-col font-heading font-bold uppercase"
+                        className="flex flex-col font-bold uppercase"
                         initial={{ opacity: 0, x: -40 }}
                         animate={{ opacity: 1, x: 0 }}
                         transition={{ duration: 0.8, ease: "easeOut" }}
                     >
-                        <span className="text-[clamp(3.5rem,8vw,7rem)] leading-[0.9] tracking-tighter text-text-primary -mb-4">AI & DATA</span>
+                        <span className="text-[clamp(3.5rem,8vw,7rem)] leading-[0.9] tracking-tighter text-text-primary">AI & DATA</span>
                         <span className="text-[clamp(1.25rem,3vw,2.5rem)] leading-[1.1] tracking-tight text-metallic mt-2">
                             THE POWER BEHIND DECISIONS
                         </span>

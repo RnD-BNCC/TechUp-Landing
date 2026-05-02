@@ -23,7 +23,7 @@ export function RegisterCTA() {
 					>
 						<div className="mx-auto mb-8 h-2 w-24 bg-accent-blue shadow-brutal-sm" />
 
-						<h2 className="font-heading text-4xl font-bold tracking-tight sm:text-5xl md:text-6xl uppercase">
+						<h2 className="text-4xl font-bold tracking-tight sm:text-5xl md:text-6xl uppercase">
 							<span className="text-text-primary block">READY TO </span>
 							<span className="text-metallic block mt-2">SHAPE THE FUTURE?</span>
 						</h2>
