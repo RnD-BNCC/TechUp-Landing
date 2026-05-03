@@ -1,31 +1,62 @@
 import { motion } from "motion/react";
-import { Brain02Icon, ChartHistogramIcon, Globe02Icon, Idea01Icon } from "hugeicons-react";
-import { NeoCard } from "./ui/neo-card";
+import { Brain02Icon, Idea01Icon } from "hugeicons-react";
+import { DraggableCardBody, DraggableCardContainer } from "./ui/draggable-card";
 
-const topics = [
-    {
-        icon: Brain02Icon,
-        title: "AI-Powered Decision Making",
-        description:
-            "Explore how artificial intelligence transforms raw data into actionable insights that drive strategic business decisions across industries.",
-    },
-    {
-        icon: ChartHistogramIcon,
-        title: "Data Science in Practice",
-        description:
-            "Learn real-world applications of data science — from predictive analytics to automated systems that shape the digital economy.",
-    },
-    {
-        icon: Globe02Icon,
-        title: "Global Tech Career Paths",
-        description:
-            "Discover diverse career opportunities in Indonesia's tech industry and learn how to position yourself in the global AI workforce.",
-    },
+const documentationItems = [
+	{
+		title: "1.png",
+		image: "/images/documentation/techup-01.webp",
+		width: 520,
+		height: 347,
+		className: "rotate-[-7deg]",
+	},
+	{
+		title: "2.jpeg",
+		image: "/images/documentation/techup-02.webp",
+		width: 520,
+		height: 347,
+		className: "-translate-y-6 rotate-[5deg]",
+	},
+	{
+		title: "3.jpg",
+		image: "/images/documentation/techup-03.webp",
+		width: 347,
+		height: 520,
+		className: "rotate-[-3deg]",
+	},
+	{
+		title: "4.webp",
+		image: "/images/documentation/techup-04.webp",
+		width: 520,
+		height: 347,
+		className: "translate-y-8 rotate-[6deg]",
+	},
+	{
+		title: "5.png",
+		image: "/images/documentation/techup-05.webp",
+		width: 347,
+		height: 520,
+		className: "-translate-y-3 rotate-[-5deg]",
+	},
+	{
+		title: "6.jpg",
+		image: "/images/documentation/techup-06.webp",
+		width: 347,
+		height: 520,
+		className: "translate-y-12 rotate-[4deg]",
+	},
+	{
+		title: "7.jpg",
+		image: "/images/documentation/techup-07.webp",
+		width: 347,
+		height: 520,
+		className: "translate-y-10 rotate-[-4deg]",
+	},
 ];
 
 export function About() {
     return (
-        <section id="about" className="relative px-6 py-28 sm:py-32 lg:px-8 border-b-2 border-border-dark overflow-hidden">
+        <section id="about" className="relative z-40 px-6 py-28 sm:py-32 lg:px-8 border-b-2 border-border-dark overflow-visible">
             <div className="absolute inset-0 bg-grid-dense opacity-30" />
             <div className="mx-auto max-w-7xl relative z-10">
 
@@ -113,21 +144,35 @@ export function About() {
                 </div>
 
 
-                <div className="mt-24 grid gap-6 md:grid-cols-3">
-                    {topics.map((topic, i) => (
-                        <NeoCard key={topic.title} hover delay={0.2 + i * 0.1} className="p-8 h-full flex flex-col">
-                            <div className="mb-6 inline-flex h-14 w-14 items-center justify-center border-2 border-bg-base bg-accent-blue shadow-brutal-sm shrink-0">
-                                <topic.icon size={28} className="text-bg-base" />
-                            </div>
-                            <h3 className="text-xl font-bold text-text-primary mb-3 uppercase tracking-tight">
-                                {topic.title}
-                            </h3>
-                            <p className="text-base text-text-secondary leading-relaxed font-medium flex-grow">
-                                {topic.description}
-                            </p>
-                        </NeoCard>
-                    ))}
-                </div>
+				<div className="mt-24 text-center">
+					<motion.h3
+						className="text-3xl font-bold uppercase tracking-tight text-text-primary sm:text-4xl md:text-5xl"
+						initial={{ opacity: 0, y: 20 }}
+						whileInView={{ opacity: 1, y: 0 }}
+						viewport={{ once: true }}
+						transition={{ duration: 0.6 }}
+					>
+						Past <span className="text-metallic">Highlights</span>
+					</motion.h3>
+				</div>
+
+				<DraggableCardContainer className="relative z-40 mt-12 flex min-h-[58rem] flex-wrap items-center justify-center gap-x-8 gap-y-14 overflow-visible px-6 py-20 xl:px-0">
+
+					{documentationItems.map((item) => (
+						<DraggableCardBody key={item.title} className={item.className}>
+							<img
+								src={item.image}
+								alt={item.title}
+								loading="lazy"
+								decoding="async"
+								width={item.width}
+								height={item.height}
+								className="pointer-events-none relative z-10 h-56 w-full border-2 border-border-light object-cover shadow-brutal sm:h-64"
+							/>
+							<div className="h-14" />
+						</DraggableCardBody>
+					))}
+				</DraggableCardContainer>
             </div>
         </section>
     );

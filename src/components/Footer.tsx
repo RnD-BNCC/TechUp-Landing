@@ -1,4 +1,4 @@
-import { Call02Icon, GlobalIcon } from "hugeicons-react";
+import { GlobalIcon, InstagramIcon } from "hugeicons-react";
 
 export function Footer() {
     return (
@@ -8,36 +8,38 @@ export function Footer() {
 
 
                     <div className="flex flex-col items-start max-w-sm">
-                        <img
-                            src="/images/techup-logo.png"
-                            alt="Tech Up 2026"
-                            className="h-12 w-auto object-contain mb-6"
-                        />
+						<img
+							src="/images/techup-logo.webp"
+							alt="Tech Up 2026"
+							loading="lazy"
+							decoding="async"
+							width={360}
+							height={159}
+							className="h-12 w-auto object-contain mb-6"
+						/>
                         <p className="text-base text-text-secondary leading-relaxed font-medium mb-6">
-                            Tech Up 2026 — AI and Data: The Power Behind Decisions. A hybrid
+                            Tech Up 2026, AI and Data: The Power Behind Decisions. A hybrid
                             talkshow presented by BNCC at BINUS University.
                         </p>
                         <div className="flex flex-col gap-2">
                             <span className="text-xs font-bold text-text-muted uppercase tracking-widest">Organized by</span>
-                            <img
-                                src="/images/bncc-white.png"
-                                alt="BNCC"
-                                className="h-8 w-auto object-contain opacity-70"
-                            />
+							<img
+								src="/images/bncc-white.webp"
+								alt="BNCC"
+								loading="lazy"
+								decoding="async"
+								width={320}
+								height={120}
+								className="h-8 w-auto object-contain opacity-70"
+							/>
                         </div>
                     </div>
 
 
                     <div className="flex flex-col items-start gap-4">
                         <h4 className="text-sm font-bold uppercase tracking-widest text-text-primary mb-2">
-                            CONTACT
+                            SOCIAL
                         </h4>
-                        <div className="flex items-center gap-4 text-base text-text-secondary font-medium">
-                            <div className="p-2 border-2 border-border-light bg-bg-surface">
-                                <Call02Icon size={20} className="text-accent-blue" />
-                            </div>
-                            <span>(021) 536 532 79</span>
-                        </div>
                         <div className="flex items-center gap-4 text-base text-text-secondary font-medium">
                             <div className="p-2 border-2 border-border-light bg-bg-surface">
                                 <GlobalIcon size={20} className="text-accent-blue" />
@@ -51,6 +53,19 @@ export function Footer() {
                                 www.bncc.net
                             </a>
                         </div>
+                        <div className="flex items-center gap-4 text-base text-text-secondary font-medium">
+                            <div className="p-2 border-2 border-border-light bg-bg-surface">
+                                <InstagramIcon size={20} className="text-accent-blue" />
+                            </div>
+                            <a
+                                href="https://www.instagram.com/bnccalsut/"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="hover:text-text-primary transition-colors underline decoration-2 underline-offset-4"
+                            >
+                                @bnccalsut
+                            </a>
+                        </div>
                     </div>
 
 
@@ -58,7 +73,7 @@ export function Footer() {
                         <h4 className="text-sm font-bold uppercase tracking-widest text-text-primary mb-2">
                             QUICK LINKS
                         </h4>
-                        <a href="#register" className="text-base text-text-secondary font-bold hover:text-accent-blue transition-colors uppercase tracking-wider">
+                        <a href="https://upform.id/forms/5d86c673-e037-4d18-be71-ce27fd78f5d5" className="text-base text-text-secondary font-bold hover:text-accent-blue transition-colors uppercase tracking-wider">
                             Register Now
                         </a>
                         <a href="#about" className="text-base text-text-secondary font-bold hover:text-accent-blue transition-colors uppercase tracking-wider">
@@ -75,10 +90,10 @@ export function Footer() {
 
 
                 <div className="mt-16 flex flex-col items-center gap-4 border-t-2 border-border-dark pt-8 sm:flex-row sm:justify-between">
-                    <p className="text-sm font-bold text-text-muted uppercase tracking-wider">
-                        &copy; 2026 BNCC. 35 YEARS OF EXCELLENCE.
-                    </p>
                     <p className="text-sm font-bold text-text-muted/60 uppercase tracking-wider">
+                        &copy; 2026 BNCC. 36 YEARS OF EXCELLENCE.
+                    </p>
+                    <p className="text-sm font-bold text-text-muted uppercase tracking-wider">
                         AI & DATA: THE POWER BEHIND DECISIONS
                     </p>
                 </div>

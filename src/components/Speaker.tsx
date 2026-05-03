@@ -7,17 +7,15 @@ const speakers = [
         name: "Eggy Tanuwijaya",
         role: "Enterprise Channel Partnership",
         company: "BytePlus",
-        description: "Experienced IT Consultant with a proven track record in the information technology and services industry.",
         linkedin: "https://www.linkedin.com/in/eggy-tanuwijaya-010b50104",
-        image: "/images/speakers/eggy_tanuwijaya.jpg"
+        image: "/images/speakers/eggy_tanuwijaya.webp"
     },
     {
         name: "Risna Hendayana",
         role: "GM Product Engineering",
         company: "PT. Tricada Intronik",
-        description: "Experienced IT Professional with a demonstrated history and passion for working in the information technology industry.",
         linkedin: "https://www.linkedin.com/in/risna-hendayana-43462942",
-        image: "/images/speakers/risna_hendayana.jpg"
+        image: "/images/speakers/risna_hendayana.webp"
     },
 ];
 
@@ -75,12 +73,16 @@ export function Speaker() {
                             transition={{ duration: 0.5, delay: 0.2 + index * 0.1 }}
                         >
                             <NeoCard className="p-8 h-full flex flex-col items-center text-center border-4">
-                                <div className="mb-8 flex h-28 w-28 items-center justify-center border-4 border-bg-base bg-bg-base shadow-brutal overflow-hidden">
+                                <div className="mb-8 flex h-36 w-36 items-center justify-center border-4 border-bg-base bg-bg-base shadow-brutal overflow-hidden">
                                     {speaker.image ? (
-                                        <img
-                                            src={speaker.image}
-                                            alt={speaker.name}
-                                            className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-300"
+										<img
+											src={speaker.image}
+											alt={speaker.name}
+											loading="lazy"
+											decoding="async"
+											width={720}
+											height={720}
+											className="w-full h-full object-cover object-top grayscale hover:grayscale-0 transition-all duration-300"
                                             onError={(e) => {
                                                 e.currentTarget.style.display = 'none';
                                                 if (e.currentTarget.nextElementSibling) {
@@ -113,12 +115,6 @@ export function Speaker() {
                                     {speaker.role} <br />
                                     <span className="text-text-secondary text-xs">@ {speaker.company}</span>
                                 </div>
-
-                                <div className="h-0.5 w-16 mx-auto bg-border-light mb-4" />
-
-                                <p className="text-sm text-text-secondary font-medium">
-                                    {speaker.description}
-                                </p>
                             </NeoCard>
                         </motion.div>
                     ))}

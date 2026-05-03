@@ -19,7 +19,7 @@ export function NeoButton({
 	const baseStyles = "relative inline-flex items-center justify-center gap-2.5 px-8 py-4 font-bold tracking-wide transition-all duration-150 active-brutal select-none";
 	
 	const variantClasses = {
-		primary: "bg-accent-blue text-white border-2 border-white shadow-brutal",
+		primary: "bg-border-dark text-white border-2 border-white shadow-brutal",
 		secondary: "bg-bg-surface text-text-primary border-2 border-border-light shadow-brutal hover:bg-bg-surface-hover",
 	};
 

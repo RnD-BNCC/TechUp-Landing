@@ -101,14 +101,11 @@ export function InfiniteSlider({
   };
 
   const renderChildren = () =>
-    childArray.map((child, i) =>
-      isValidElement(child)
-        ? cloneElement(child as React.ReactElement, {
-            key: i,
-            style: { marginRight: `${gap}px` },
-          } as React.HTMLAttributes<HTMLElement>)
-        : child
-    );
+    childArray.map((child, i) => (
+      <div key={i} className="shrink-0" style={{ marginRight: `${gap}px` }}>
+        {isValidElement(child) ? cloneElement(child) : child}
+      </div>
+    ));
 
   return (
     <div

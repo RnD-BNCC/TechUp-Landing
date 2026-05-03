@@ -5,8 +5,8 @@ import { Menu01Icon, Cancel01Icon } from "hugeicons-react";
 const navItems = [
     { label: "About", href: "#about" },
     { label: "Speaker", href: "#speaker" },
-    { label: "Schedule", href: "#schedule" },
-    { label: "BNCC", href: "#organizer" },
+    { label: "Partners", href: "#partners" },
+    { label: "FAQ", href: "#faq" },
 ];
 
 export function Navbar() {
@@ -35,8 +35,11 @@ export function Navbar() {
                 >
                     <a href="#" className="flex items-center gap-4">
                         <img
-                            src="/images/techup-logo.png"
+                            src="/images/techup-logo.webp"
                             alt="Tech Up"
+							width={360}
+							height={159}
+                            decoding="async"
                             className="h-8 w-auto"
                         />
                     </a>
@@ -56,7 +59,8 @@ export function Navbar() {
 
 
                     <a
-                        href="#register"
+                        href="https://upform.id/forms/5d86c673-e037-4d18-be71-ce27fd78f5d5"
+                        target="_blank"
                         className="hidden md:inline-flex items-center justify-center bg-bg-surface px-6 py-2.5 text-sm font-bold text-text-primary border-2 border-border-dark hover:bg-accent-blue hover:text-white transition-colors shadow-brutal-sm active-brutal"
                     >
                         REGISTER NOW
@@ -65,6 +69,8 @@ export function Navbar() {
 
                     <button
                         className="flex h-10 w-10 items-center justify-center border-2 border-border-dark bg-bg-surface text-text-primary md:hidden shadow-brutal-sm active-brutal"
+                        aria-label={mobileOpen ? "Close navigation menu" : "Open navigation menu"}
+                        aria-expanded={mobileOpen}
                         onClick={() => setMobileOpen(!mobileOpen)}
                     >
                         {mobileOpen ? (
@@ -101,7 +107,7 @@ export function Navbar() {
                                 <a
                                     href="#register"
                                     onClick={() => setMobileOpen(false)}
-                                    className="flex w-full items-center justify-center bg-accent-blue px-6 py-4 text-base font-bold text-white border-2 border-bg-base shadow-brutal active-brutal"
+                                    className="flex w-full items-center justify-center bg-border-dark px-6 py-4 text-base font-bold text-white border-2 border-bg-base shadow-brutal active-brutal"
                                 >
                                     REGISTER NOW
                                 </a>

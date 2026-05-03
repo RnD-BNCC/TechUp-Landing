@@ -14,8 +14,11 @@ export function TechUpLogo() {
 
 
         <motion.img
-          src="/images/techup-logo.png"
+          src="/images/techup-logo.webp"
           alt="TechUp Logo"
+          width={360}
+          height={159}
+          decoding="async"
           className="h-16 sm:h-24 w-auto object-contain relative z-10"
           initial={{ opacity: 0, scale: 0.5 }}
           animate={{ opacity: 1, scale: 1 }}

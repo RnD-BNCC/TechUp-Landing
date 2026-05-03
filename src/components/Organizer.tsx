@@ -35,8 +35,12 @@ export function Organizer() {
 							</motion.div>
 
 							<motion.img
-								src="/images/bncc-white.png"
+								src="/images/bncc-white.webp"
 								alt="BNCC - Bina Nusantara Computer Club"
+								loading="lazy"
+								decoding="async"
+								width={320}
+								height={120}
 								className="h-10 w-auto sm:h-12 mb-6"
 								initial={{ opacity: 0 }}
 								whileInView={{ opacity: 1 }}
@@ -51,10 +55,10 @@ export function Organizer() {
 								viewport={{ once: true }}
 								transition={{ duration: 0.6, delay: 0.2 }}
 							>
-								Bina Nusantara Computer Club — one of the best computer-based
+								Bina Nusantara Computer Club, one of the best computer-based
 								organizations at BINUS University, celebrating{" "}
 								<span className="text-text-primary font-bold underline decoration-2 decoration-accent-blue underline-offset-4">
-									35 years of excellence
+									36 years of excellence
 								</span>{" "}
 								in technology education.
 							</motion.p>

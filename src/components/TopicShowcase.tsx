@@ -5,9 +5,7 @@ import {
 	AiNetworkIcon,
 	BrainIcon,
 	Shield01Icon,
-	CpuIcon,
 	ArrowUpRight01Icon,
-	Layers01Icon,
 } from "hugeicons-react";
 import { NeoCard } from "./ui/neo-card";
 
@@ -33,7 +31,7 @@ function BentoCard({ icon: Icon, title, description, className, accentColor = "b
 			<h3 className="text-lg font-bold text-text-primary mb-3 uppercase tracking-tight">
 				{title}
 			</h3>
-			<p className="text-sm text-text-secondary leading-relaxed font-medium mt-auto">
+			<p className="text-sm text-text-secondary leading-relaxed font-medium">
 				{description}
 			</p>
 		</NeoCard>
@@ -47,7 +45,7 @@ const bentoItems = [
 		description:
 			"How deep learning models process vast datasets to recognize patterns, predict outcomes, and automate complex decision processes at scale.",
 		accentColor: "bg-accent-blue",
-		className: "md:col-span-2",
+		className: "md:col-span-1",
 	},
 	{
 		icon: DatabaseIcon,
@@ -69,9 +67,9 @@ const bentoItems = [
 		icon: AiNetworkIcon,
 		title: "AI in Indonesia's Tech Ecosystem",
 		description:
-			"The growing adoption of AI across Indonesian startups and enterprises — from fintech fraud detection to e-commerce recommendation engines powering millions of transactions daily.",
+			"The growing adoption of AI across Indonesian startups and enterprises, from fintech fraud detection to e-commerce recommendation engines powering millions of transactions daily.",
 		accentColor: "bg-rose-500",
-		className: "md:col-span-2",
+		className: "md:col-span-1",
 	},
 	{
 		icon: Shield01Icon,
@@ -82,28 +80,12 @@ const bentoItems = [
 		className: "md:col-span-1",
 	},
 	{
-		icon: CpuIcon,
-		title: "MLOps & Production AI",
-		description:
-			"Deploying, monitoring, and maintaining machine learning models in production environments at enterprise scale.",
-		accentColor: "bg-cyan-500",
-		className: "md:col-span-1",
-	},
-	{
 		icon: ArrowUpRight01Icon,
 		title: "Career Growth",
 		description:
 			"Emerging roles, salary trends, and skill requirements for aspiring data scientists and AI engineers.",
 		accentColor: "bg-indigo-500",
 		className: "md:col-span-1",
-	},
-	{
-		icon: Layers01Icon,
-		title: "The Data-Driven Organization",
-		description:
-			"How leading companies build a culture of data literacy — from executive dashboards to democratized analytics across every department.",
-		accentColor: "bg-accent-blue",
-		className: "md:col-span-2",
 	},
 ];
 
@@ -143,7 +125,7 @@ export function TopicShowcase() {
 						viewport={{ once: true }}
 						transition={{ duration: 0.6, delay: 0.2 }}
 					>
-						From neural networks to production ML systems — explore the technologies,
+						From neural networks to production ML systems, explore the technologies,
 						practices, and career paths that define the modern data-driven world.
 					</motion.p>
 				</div>

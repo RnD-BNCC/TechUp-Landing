@@ -11,17 +11,17 @@ const infoItems = [
     {
         icon: Clock01Icon,
         label: "TIME",
-        value: "09:00 - 12:15 WIB",
+        value: "09:30 - 12:15 WIB",
     },
     {
         icon: Location01Icon,
         label: "LOCATION",
-        value: "BINUS ALAM SUTERA B0504",
+        value: "AUDITORIUM (B0501) BINUS ALAM SUTERA",
     },
     {
         icon: UserGroupIcon,
         label: "ATTENDEES",
-        value: "300 PARTICIPANTS",
+        value: "300+ PARTICIPANTS",
     },
 ];
 
@@ -46,7 +46,7 @@ export function EventInfo() {
                                 <p className="text-xs font-bold uppercase tracking-widest text-text-muted mb-1">
                                     {item.label}
                                 </p>
-                                <p className="text-base sm:text-lg font-bold text-text-primary uppercase truncate">
+                                <p className="text-base sm:text-lg font-bold text-text-primary uppercase">
                                     {item.value}
                                 </p>
                             </motion.div>
